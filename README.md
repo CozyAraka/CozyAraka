@@ -1,5 +1,6 @@
 ![python](https://img.shields.io/badge/Python-Learning-000000?style=for-the-badge&logo=Python&logoColor=blue)
-![csharp](https://img.shields.io/badge/C#-Learning-000000?style=for-the-badge&logo=csharp&logoColor=blue)
+![csharp](https://img.shields.io/badge/Csharp-Learning-000000?style=for-the-badge&logo=csharp&logoColor=blue)
+![oracle](https://img.shields.io/badge/Java-Proficient-000000?style=for-the-badge&logo=oracle&logoColor=red)
 
 <!--
 **CozyAraka/CozyAraka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
