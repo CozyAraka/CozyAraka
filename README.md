@@ -1,5 +1,5 @@
 
-👋 Hey, I'm Aaron a.k.a. Araka/Zaplek and 18 y/o. Right now i am Learning and trying to understand different Languages!
+👋 Hey, I'm Aaron a.k.a. Araka/Zaplek and 19 y/o. Right now i am Learning and trying to understand different Languages!
 I also have some fun Projects, just look around if you see something interesting!
 
 #
@@ -28,7 +28,7 @@ Rust, Kotlin, Lua, Scala and more!
 
 #
 
-If you want to know more about me, just shoot me a Message at araka@araka.me!
+If you want to know more about me, just shoot me a Message at unwished@unwished.me!
 
 <!--
 **CozyAraka/CozyAraka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
