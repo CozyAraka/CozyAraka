@@ -15,7 +15,7 @@ I also have some fun Projects, just look around if you see something interesting
 
 ![javascript](https://img.shields.io/badge/JScript-Learning-yellow?style=for-the-badge&logo=javascript&logoColor=yellow)
 
-![csharp](https://img.shields.io/badge/Csharp-Scheduled(maybe)-000000?style=for-the-badge&logo=csharp&logoColor=white)
+![csharp](https://img.shields.io/badge/CSharp-Learning-white?style=for-the-badge&logo=csharp&logoColor=white)
 
 ![cplusplus](https://img.shields.io/badge/C++-Scheduled(maybe)-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 
