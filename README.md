@@ -6,8 +6,7 @@ I also have some fun Projects, just look around if you see something interesting
 
 💭 Currently im Proficient in:
 
-![oracle](https://img.shields.io/badge/Java-Proficient-000000?style=for-the-badge&logo=oracle&logoColor=red)
-
+![oracle](https://img.shields.io/badge/Java-Proficient-orange?style=for-the-badge&logo=Oracle&logoColor=orange)
 #
 
 💭 Languages i am trying to learn:
