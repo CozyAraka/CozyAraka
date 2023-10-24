@@ -12,7 +12,7 @@ I also have some fun Projects, just look around if you see something interesting
 
 💭 Languages i am trying to learn:
 
-![python](https://img.shields.io/badge/Python-Learning-000000?style=for-the-badge&logo=Python&logoColor=blue)
+![python](https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge&logo=Python&logoColor=blue)
 
 ![javascript](https://img.shields.io/badge/Javascript-Scheduled(maybe)-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
 
