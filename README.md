@@ -1,5 +1,5 @@
 
-👋 Hey, I'm Aaron a.k.a. Araka/Zaplek and 19 y/o. Right now i am Learning and trying to understand different Languages!
+👋 Hey, I'm Leah a.k.a. Araka/Zaplek and 20 y/o. Right now i am Learning and trying to understand different Languages!
 I also have some fun Projects, just look around if you see something interesting!
 
 #
