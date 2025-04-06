@@ -27,7 +27,7 @@ Rust, Kotlin, Lua, Scala and more!
 
 #
 
-If you want to know more about me, just shoot me a Message at unwished@unwished.me!
+If you want to know more about me, just shoot me a Message on dc: araka.
 
 <!--
 **CozyAraka/CozyAraka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
